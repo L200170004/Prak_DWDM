@@ -1,0 +1,15 @@
+4. Jumlah Atribut Binominal dan Polinominal :
+
+ 	Binominal	: 4 {Gender, Asal_Sekolah, Asisten, Lama_Studi}
+ 	Polinominal	: 1 {Jurusan_SMA}
+
+5. Jumlah Attribute yang bertipe real :
+
+	Ada 1	: {Rerata_Sekolah}
+
+6. Bsarnya Nilai
+
+	Max	: 23
+	Min	: 16
+	Mean	: 18,95
+	StdDev	: 1.669	
